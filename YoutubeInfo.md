@@ -13,3 +13,5 @@ YouTube is an American online video sharing and social media platform headquarte
 ---
 Basically anything you can think of can be found on Youtube!
 ![Youtube](unnamed.jpg)
+[Home](README.md)
+[How to upload](UploadTutorial.md)
