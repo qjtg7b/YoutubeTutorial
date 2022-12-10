@@ -11,6 +11,6 @@
 9. Set the **tags** for your video. Tags are basically keywords that can help your video be found.
 10. Set if your video is **public or private**. If it is private, only you can view it.
 11. Hit **save**, and your video will upload!
-![Front Page]()
+![Front Page](73973896-5e16-4c43-98c4-39b8bccce5f2-5dc4af58e0ff1-760x400.jpeg)
 [Home](README.md)
 [Information about Youtube](YoutubeInfo.md)
